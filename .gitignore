@@ -1,0 +1,7 @@
+*_env
+weights/
+plates/
+src_videos/
+__pycache__
+*.pt 
+*.mp4 
